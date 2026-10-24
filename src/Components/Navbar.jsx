@@ -12,6 +12,7 @@ function Navbar() {
                         RecipeFinder
                     </Link>
                     { }
+                    <p>Devel.By.Ashish</p>
                     <Link to = "/" className="text-text hover:text-accent font-medium">
                         Home
                     </Link>
